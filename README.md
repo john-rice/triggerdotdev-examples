@@ -1,3 +1,7 @@
+⚠️ This repository has been archived and will not work with Trigger.dev v3
+
+---
+
 # Trigger.dev examples
 
 Welcome to @trigger.dev/examples, a collection of full projects using Trigger.dev.
